@@ -1,16 +1,35 @@
-.eldenring {
-    width: 300px;
-    height: 225px;
-}
-
-.sekiro {
-    width: 300px;
-}
-
-.reddead {
-    width: 300px;
-}
-
 img {
-    width: 300px
+    width: 15.75rem;
+}
+
+body {
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+}
+
+p, a {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+ul li {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+figcaption {
+    font-size: 20px;
+    align-self: center;
 }
